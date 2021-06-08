@@ -1,4 +1,4 @@
-# ODSC Europe 2020 Workshop 
+# ODSC Europe 2021 Workshop 
 ![](https://i.imgur.com/EgiPQsO.png)
 
 # Advanced NLP: From Essentials to Deep Transfer Learning
