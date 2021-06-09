@@ -4,6 +4,18 @@
 # Advanced NLP: From Essentials to Deep Transfer Learning
 ![](https://i.imgur.com/zcn60eh.png)
 
+Contains all tutorials and hands-on examples for full day workshop on "Advanced NLP: From Essentials to Deep Transfer Learning" at ODSC Europe 2021. 
+Instructors: Anuj Gupta
+
+Use the following button to open the repo in google colab
+
+### Open Repository in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anujgupta82/nlp_workshop_odsc_europe21)
+
+
+## Open in Jupyter nbviewer  
+[![Open in nbviewer](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png)](https://nbviewer.jupyter.org/github/anujgupta82/nlp_workshop_odsc_europe21/tree/master)
+
+
 
 ## Abstract: 
 
