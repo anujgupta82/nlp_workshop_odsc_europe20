@@ -7,6 +7,7 @@
 Contains all tutorials and hands-on examples for full day workshop on "Advanced NLP: From Essentials to Deep Transfer Learning" at ODSC Europe 2021. 
 
 Instructors: [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
+NLP Book: [http://www.practicalnlp.ai/](http://www.practicalnlp.ai/)
 
 
 Use the following button to open the repo in google colab
