@@ -9,6 +9,7 @@ Contains all tutorials and hands-on examples for full day workshop on "Advanced 
 Instructors: [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
 
 NLP Book: [http://www.practicalnlp.ai/](http://www.practicalnlp.ai/)
+Buy on amazon: [link to amazon.com](https://www.amazon.com/Practical-Natural-Language-Processing-Comprehensive-ebook/dp/B08BF7N3L4/ref=pd_day0_25/144-3081552-4382668?pd_rd_w=sPfpu&pf_rd_p=de8335d1-df41-4cbc-808c-a503e7210636&pf_rd_r=56QP70NZWK1SDJKNZ1Y4&pd_rd_r=307a860f-095d-430a-b2a7-148bdaa36a71&pd_rd_wg=4i8yi&pd_rd_i=B08BF7N3L4&psc=1)
 
 
 Use the following button to open the repo in google colab
