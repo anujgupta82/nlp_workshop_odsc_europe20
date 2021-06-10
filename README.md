@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/EgiPQsO.png)
 
 # Advanced NLP: From Essentials to Deep Transfer Learning
-![](https://i.imgur.com/zcn60eh.png)
+![](https://i.stack.imgur.com/LiQcE.png)
 
 Contains all tutorials and hands-on examples for full day workshop on "Advanced NLP: From Essentials to Deep Transfer Learning" at ODSC Europe 2021. 
 Instructors: Anuj Gupta
