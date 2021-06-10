@@ -5,7 +5,9 @@
 ![](https://i.stack.imgur.com/LiQcE.png)
 
 Contains all tutorials and hands-on examples for full day workshop on "Advanced NLP: From Essentials to Deep Transfer Learning" at ODSC Europe 2021. 
-Instructors: Anuj Gupta
+
+Instructors: [Anuj Gupta](https://www.linkedin.com/in/anujgupta-82/)
+
 
 Use the following button to open the repo in google colab
 
